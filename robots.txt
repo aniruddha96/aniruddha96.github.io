@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://aniruddha96.github.io/sitemap.xml

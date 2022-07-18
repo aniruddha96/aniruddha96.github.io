@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Aniruddha Parvat - Documentation</title>
+        <link>https://aniruddha96.github.io</link>
+        <description>Aniruddha&#x27;s portfolio</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://aniruddha96.github.io/categories/documentation/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Theme extension</title>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://aniruddha96.github.io/docs/theme-extension/</link>
+            <guid>https://aniruddha96.github.io/docs/theme-extension/</guid>
+            <description>&lt;p&gt;DeepThought theme can be extended with &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;themes&#x2F;extending-a-theme&#x2F;&quot;&gt;usual Zola extension mechanisms&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Welcome to DeepThought</title>
+            <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://aniruddha96.github.io/docs/welcome-to-deep-thought/</link>
+            <guid>https://aniruddha96.github.io/docs/welcome-to-deep-thought/</guid>
+            <description>&lt;p&gt;This is a small example post of stuff you can do with the &lt;code&gt;DeepThought&lt;&#x2F;code&gt; theme.
+We&#x27;ll try to represent all possible markdown and shortcode combinations here
+so you can develop easily.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Config Options</title>
+            <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://aniruddha96.github.io/docs/config-options/</link>
+            <guid>https://aniruddha96.github.io/docs/config-options/</guid>
+            <description>&lt;p&gt;DeepThought theme provides some config option like option to add favicon to your site, add avatar for profile, setup social links for the profile etc&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Extended Shortcodes</title>
+            <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+            <link>https://aniruddha96.github.io/docs/extended-shortcodes/</link>
+            <guid>https://aniruddha96.github.io/docs/extended-shortcodes/</guid>
+            <description>&lt;p&gt;DeepThought theme provides multiple shortcodes on top of built-in ones in Zola.
+Please, have a look at the &lt;a href=&quot;&#x2F;docs&#x2F;config-options#external-libraries&quot;&gt;Config Options&lt;&#x2F;a&gt;
+that explain how to enable them.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
